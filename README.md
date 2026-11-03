@@ -14,7 +14,7 @@ Los intervalos salen de un bootstrap estratificado. Los modelos ya entrenados
 están en `widgets/seguridad/modelos/`.
 
 **La base** está en `data/`:
-- `base_etiquetada.csv`: la que usa el entrenamiento (con `peso_final`).
+- `base_etiquetada.csv`: la que usa el entrenamiento (ponderador `w_norm`).
 - `base_etiquetada_SEGURIDAD_para_probabilidad.xlsx`: el recorte con las
   columnas de las cuatro preguntas y los cortes.
 
