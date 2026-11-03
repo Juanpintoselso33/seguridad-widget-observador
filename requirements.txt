@@ -1,4 +1,4 @@
-# Dependencias para el widget IVE - El Observador
+# Dependencias para el widget de seguridad - El Observador
 # Para instalar: pip install -r requirements.txt
 
 # App web
